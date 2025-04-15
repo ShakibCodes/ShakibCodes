@@ -1,25 +1,38 @@
-### Hi there, I'm Shakib! 👋
+# 👋 Hi there, I'm Shakib Sayyed!
 
-💻 **Aspiring Software Engineer | Python Developer | Harvard CS50P Certified**
+🎯 **Self-Taught Developer | Exploring Python, SQL & Azure | Passionate Project Builder**
 
-I have **3+ years of experience in Python** and have built several projects using **HTML, CSS, and Python**. Currently, I'm exploring **C++ and software engineering** to expand my skills. Passionate about **AI, automation, and web technologies**. 🚀
+I'm a self-driven learner with 3+ years of experience in HTML and CSS. Currently focused on mastering **Python, SQL, and Microsoft Azure**, I enjoy creating practical solutions — from responsive websites to small games and backend tools. I also have a growing interest in **AI & automation** and love exploring how tech can be used to solve real-world problems.
+
+---
 
 ### 🔧 Tech Stack & Skills:
-- **Languages:** Python, C++ (Beginner), HTML, CSS
-- **Certifications:** Harvard CS50P 
-- **Interests:** Software Engineering, AI, Web, Automation
+- **Languages:** HTML, CSS, Python, JavaScript (basic), SQL (learning)
+- **Tools & Platforms:** Git, Netlify, VS Code, Azure (learning)
+- **Interests:** Python development, Databases, Cloud (Azure), Automation, Web Tech, AI (just a bit 😉)
+
+---
 
 ### 📌 Featured Projects:
-- 🧮 **[Smart Calculator](https://github.com/ShakibCodes/smart-calc)** – A powerful calculator built in Python.
-- 🎮 **[Tic-Tac-Toe Game](https://github.com/ShakibCodes/tic-tac-toe)** – Play Tic-Tac-Toe with AI.
-- ⚽ **[Ball Game](https://github.com/ShakibCodes/catch-the-ball-game)** – A fun ball game using Tkinter.
+- 🧮 **Web Calculator** – Built using HTML, CSS, and JavaScript.
+- 🎮 **Tic-Tac-Toe Game** – Made with Python and Tkinter.
+- 🟢 **Ball Game** – A fun mini-game using Python GUI (Tkinter).
+- 🌐 **Portfolio Website** – Designed and hosted using HTML/CSS and Netlify.
+
+---
 
 ### 🌱 Currently Learning:
-- **C++ for software development**
-- **Building scalable web applications**
+- Backend development with **Python & SQL**
+- **Microsoft Azure** fundamentals
+- Building full-stack & cloud-ready apps
 
-### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-balue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/your-username)
+---
 
-🚀 _Let's build something amazing together!_
+### 📫 Let’s Connect:
+- [🌐 Personal Website](https://shakibsayyed.netlify.app/)
+- [💼 LinkedIn](https://www.linkedin.com/in/shakib-sayyed-81b9b4352/)
+- [🐙 GitHub](https://github.com/ShakibCodes)
+
+---
+
+🚀 *Let’s share ideas, build meaningful tech, and grow together!*
