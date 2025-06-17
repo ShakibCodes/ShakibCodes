@@ -19,8 +19,8 @@ I also explore topics like AI and automation, always looking for ways to apply t
 ## Featured Projects
 
 - **Web Calculator** – A functional calculator using HTML, CSS, and JavaScript
-- **Tic-Tac-Toe Game** – Built with Python and Tkinter
-- **Ball Game** – Developed using Python’s GUI toolkit
+- **Tic-Tac-Toe Game** – Built with Html, css and javascript 
+- **Ball Game** – Built with Python and Tkinter
 - **Portfolio Website** – Designed and hosted using HTML/CSS and Netlify
 
 ---
