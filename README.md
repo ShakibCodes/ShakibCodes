@@ -32,7 +32,6 @@ I also explore topics like AI and automation, always looking for ways to apply t
 - Building full-stack and cloud-ready applications
 
 ---
-[Profile view counter on GitHub](https://github.com/ShakibCodes/ShakibCodes)
 
 ## Connect With Me
 
