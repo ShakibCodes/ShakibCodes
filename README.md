@@ -4,6 +4,7 @@ Curious mind who loves building unique projects and exploring Tech & AI. Current
 
 [![Shakib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShakibCodes&theme=github-compact)](https://github.com/ShakibCodes/github-readme-activity-graph)
 
+![](https://komarev.com/ghpvc/?username=ShakibCodes)
 ---
 
 ## Reach me at
