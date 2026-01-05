@@ -31,6 +31,7 @@ A curious developer dedicated to building unique projects and exploring the inte
 </p>
 
 ---
+### 📊 GitHub Stats
 
 <div align="center">
 
