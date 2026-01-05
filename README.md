@@ -1,50 +1,51 @@
-# Hi 👋, this is Shakib
+# Hi 👋, I'm Shakib
 
-Curious mind who loves building unique projects and exploring Tech & AI. Currently learning DSA and strengthening C++.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ShakibCodes&label=Profile%20Views&color=0e76a8&style=flat" alt="ShakibCodes" />
+</p>
 
-![](https://komarev.com/ghpvc/?username=ShakibCodes)
+### 💫 About Me
+A curious developer dedicated to building unique projects and exploring the intersection of **AI & Software Engineering**. Currently sharpening my problem-solving skills with **DSA** and mastering **C++**.
+
+* 🔭 I’m currently working on ... Side projects which you will see here
+* 🌱 I’m currently learning ... DSA, C++, React (for a side project i named it as **The next big thing**)
+* ✨I love exploring how AI can automate things, books on astronomy, and just roaming around the internet and learning something new every time (related to Tech)
+
 ---
 
-## Reach me at
+### 🛠 Tech Stack
 
+**Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,postgres" />
+</p>
+
+**Frameworks & Libraries**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,django,flask" />
+</p>
+
+**Tools & Platforms**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,supabase,postman" />
+</p>
+
+---
+
+<div align="center">
+
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=ShakibCodes&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D)
+</div>
+
+---
+
+### 🤝 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/shakib-sayyed-81b9b4352/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://shakibsayyed.vercel.app/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
-## Languages I Mostly work with
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
-</p>
-
-
-## Tools I Mostly Use
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="45" height="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="45" height="45"/>
-</p>
-
