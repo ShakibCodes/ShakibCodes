@@ -31,7 +31,8 @@ A curious developer dedicated to building unique projects and exploring the inte
 </p>
 
 ---
-
+[![Shakib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShakibCodes&theme=github-compact)](https://github.com/ShakibCodes/github-readme-activity-graph)
+---
 
 ### 🤝 Connect with me
 <p align="left">
@@ -43,3 +44,5 @@ A curious developer dedicated to building unique projects and exploring the inte
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
+
