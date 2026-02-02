@@ -7,8 +7,8 @@
 ### 💫 About Me
 A curious developer dedicated to building unique projects and exploring the intersection of **AI & Software Engineering**. Currently sharpening my problem-solving skills with **DSA** and mastering **C++**.
 
-* 🔭 I’m currently working on ... Side projects which you will see here
-* 🌱 I’m currently learning ... DSA, C++, React (for a side project i named it as **The next big thing**)
+* 🔭 I’m currently working on Side projects which you will see here
+* 🌱 I’m currently learning DSA, C++, and some frontend like Next.js
 * ✨I love exploring how AI can automate things, books on astronomy, and just roaming around the internet and learning something new every time (related to Tech)
 
 ---
@@ -17,17 +17,17 @@ A curious developer dedicated to building unique projects and exploring the inte
 
 **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,postgres" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,postgres" />
 </p>
 
 **Frameworks & Libraries**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,django,flask" />
+  <img src="https://skillicons.dev/icons?i=next,react,django,flask" />
 </p>
 
 **Tools & Platforms**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,supabase,postman" />
+  <img src="https://skillicons.dev/icons?i=vercel,git,github,vscode,supabase,postman" />
 </p>
 
 ---
