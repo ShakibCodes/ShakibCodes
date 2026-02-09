@@ -22,7 +22,7 @@ A curious developer dedicated to building unique projects and exploring the inte
 
 **Frameworks & Libraries**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=next,react,django,flask" />
+  <img src="https://skillicons.dev/icons?i=next,tailwind,react,django" />
 </p>
 
 **Tools & Platforms**
@@ -37,7 +37,7 @@ A curious developer dedicated to building unique projects and exploring the inte
 
 ### 🤝 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/shakib-sayyed-81b9b4352/" target="_blank">
+  <a href="https://www.linkedin.com/in/shakib-sayyed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
