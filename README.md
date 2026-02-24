@@ -17,7 +17,7 @@ A curious developer dedicated to building unique projects and exploring the inte
 
 **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,postgres" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,ts,html,css,postgres" />
 </p>
 
 **Frameworks & Libraries**
