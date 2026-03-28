@@ -22,7 +22,7 @@ A curious developer dedicated to building unique projects and exploring the inte
 
 **Frameworks & Libraries**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=next,tailwind,react,django" />
+  <img src="https://skillicons.dev/icons?i=pytorch,next,tailwind,react,django" />
 </p>
 
 **Tools & Platforms**
