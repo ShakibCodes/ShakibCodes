@@ -17,19 +17,32 @@ A curious developer dedicated to building unique projects and exploring the inte
 
 **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,ts,html,css,postgres" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
 </p>
 
 **Frameworks & Libraries**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,next,tailwind,react,django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" />
 </p>
 
 **Tools & Platforms**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,git,github,vscode,supabase" />
-  <img src="https://cdn.simpleicons.org/huggingface/FFCC4D" height="48" width="48" />
-  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48" width="48" />
+  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFCC4D" height="40" />
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="40" />
 </p>
 
 ---
