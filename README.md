@@ -29,6 +29,7 @@ A curious developer dedicated to building unique projects and exploring the inte
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vercel,git,github,vscode,supabase" />
   <img src="https://cdn.simpleicons.org/huggingface/FFCC4D" height="48" width="48" />
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48" width="48" />
 </p>
 
 ---
