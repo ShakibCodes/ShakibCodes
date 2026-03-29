@@ -32,6 +32,7 @@ A curious developer dedicated to building unique projects and exploring the inte
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" />
+  <img src="https://ui.shadcn.com/favicon.ico" height="40" />
 </p>
 
 **Tools & Platforms**
@@ -43,6 +44,7 @@ A curious developer dedicated to building unique projects and exploring the inte
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" />
   <img src="https://cdn.simpleicons.org/huggingface/FFCC4D" height="40" />
   <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="40" />
+  
 </p>
 
 ---
