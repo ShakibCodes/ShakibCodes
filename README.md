@@ -42,8 +42,10 @@ A curious developer dedicated to building unique projects and exploring the inte
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" />
   <img src="https://cdn.simpleicons.org/huggingface/FFCC4D" height="40" />
   <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="40" />
+     <img src="https://cdn.simpleicons.org/claude/E3765F" height="40" />
    <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="40" />
    <img src="https://cdn.simpleicons.org/github/FFFFFF" height="40" />
+    <img src="https://cdn.simpleicons.org/cursor/FFFFFF" height="40" />
   
 </p>
 
