@@ -63,5 +63,3 @@ A curious developer dedicated to building unique projects and exploring the inte
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
-[![Follow me on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-xl-dark.svg)](https://huggingface.co/ShakibCodes)
