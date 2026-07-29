@@ -50,8 +50,6 @@ A curious developer dedicated to building unique projects and exploring the inte
 </p>
 
 ---
-[![Shakib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShakibCodes&theme=github-compact)](https://github.com/ShakibCodes/github-readme-activity-graph)
----
 
 ### 🤝 Connect with me
 <p align="left">
