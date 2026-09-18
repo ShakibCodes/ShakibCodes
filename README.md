@@ -2,8 +2,6 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ShakibCodes&label=Profile%20Views&color=0e76a8&style=flat" alt="ShakibCodes" />
-  <img src="https://cp-logo.vercel.app/leetcode/shakibcodes/" alt="Leetcode_rating" />
-
 </p>
 
 ### 💫 About Me
